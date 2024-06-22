@@ -1,0 +1,10 @@
+{"gene": "WBGene00022276", "midPos": 11348.0, "pRatio": 0.5, "pi": 0, "dRatio": 0.02327, "lowpNpS": false, "highpNpS": false, "lowpi": false, "highpi": false, "lowdNdS": true, "highdNdS": false}
+{"gene": "WBGene00022277", "midPos": 11348.0, "pRatio": 2.2, "pi": 0.0015, "dRatio": 0.06657, "lowpNpS": false, "highpNpS": true, "lowpi": false, "highpi": false, "lowdNdS": false, "highdNdS": false}
+{"gene": "WBGene00022278", "midPos": 26978.0, "pRatio": 1.625, "pi": 0.0011, "dRatio": null, "lowpNpS": false, "highpNpS": true, "lowpi": false, "highpi": false, "lowdNdS": false, "highdNdS": false}
+{"gene": "WBGene00022279", "midPos": 36094.0, "pRatio": 1.25, "pi": 0.0003, "dRatio": 0.04462, "lowpNpS": false, "highpNpS": true, "lowpi": false, "highpi": false, "lowdNdS": false, "highdNdS": false}
+{"gene": "WBGene00022275", "midPos": 43356.0, "pRatio": 16.0, "pi": 0.0035, "dRatio": null, "lowpNpS": false, "highpNpS": false, "lowpi": false, "highpi": true, "lowdNdS": false, "highdNdS": false}
+{"gene": "WBGene00044345", "midPos": 47129.0, "pRatio": 5.0, "pi": 0, "dRatio": 0.05507, "lowpNpS": false, "highpNpS": false, "lowpi": false, "highpi": false, "lowdNdS": false, "highdNdS": false}
+{"gene": "WBGene00000812", "midPos": 70120.0, "pRatio": 0.2631578947368421, "pi": 0.0001, "dRatio": 0.02317, "lowpNpS": true, "highpNpS": false, "lowpi": true, "highpi": false, "lowdNdS": true, "highdNdS": false}
+{"gene": "WBGene00021679", "midPos": 86440.0, "pRatio": 3.6666666666666665, "pi": 0.0001, "dRatio": null, "lowpNpS": false, "highpNpS": false, "lowpi": true, "highpi": false, "lowdNdS": false, "highdNdS": false}
+{"gene": "WBGene00021676", "midPos": 92951.0, "pRatio": 1.6, "pi": 0.0002, "dRatio": null, "lowpNpS": false, "highpNpS": true, "lowpi": false, "highpi": false, "lowdNdS": false, "highdNdS": false}
+{"gene": "WBGene00021681", "midPos": 108338.0, "pRatio": 1.1, "pi": 0.0002, "dRatio": null, "lowpNpS": false, "highpNpS": false, "lowpi": false, "highpi": false, "lowdNdS": false, "highdNdS": false}

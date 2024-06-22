@@ -1,0 +1,10 @@
+{"locus": "I:68202", "gene": null, "substitution": "G -> T", "mutationType": "IG/-", "orderingData": [1, 68202]}
+{"locus": "I:86868", "gene": null, "substitution": "C -> T", "mutationType": "Exon/Synonymous", "orderingData": [1, 86868]}
+{"locus": "I:142547", "gene": null, "substitution": "A -> G", "mutationType": "Exon/I -> V", "orderingData": [1, 142547]}
+{"locus": "I:155517", "gene": null, "substitution": "A -> T", "mutationType": "IG/-", "orderingData": [1, 155517]}
+{"locus": "I:158975", "gene": null, "substitution": "T -> A", "mutationType": "IG/-", "orderingData": [1, 158975]}
+{"locus": "I:171651", "gene": null, "substitution": "T -> A", "mutationType": "Intron/-", "orderingData": [1, 171651]}
+{"locus": "I:208489", "gene": null, "substitution": "G -> T", "mutationType": "IG/-", "orderingData": [1, 208489]}
+{"locus": "I:237592", "gene": null, "substitution": "T -> A", "mutationType": "Exon/R -> *", "orderingData": [1, 237592]}
+{"locus": "I:251680", "gene": null, "substitution": "G -> C", "mutationType": "IG/-", "orderingData": [1, 251680]}
+{"locus": "I:291570", "gene": null, "substitution": "C -> T", "mutationType": "Intron/-", "orderingData": [1, 291570]}

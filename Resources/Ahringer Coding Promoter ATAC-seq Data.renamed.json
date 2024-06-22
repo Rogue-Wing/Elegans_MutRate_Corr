@@ -1,0 +1,10 @@
+{"chromosome": "chrI", "start": "11273", "stop": "11423", "geneID": "WBGene00022276", "regulatoryClass": "coding_promoter", "tissue": "Intest.", "strand": "1"}
+{"chromosome": "chrI", "start": "11273", "stop": "11423", "geneID": "WBGene00022277", "regulatoryClass": "coding_promoter", "tissue": "Intest.", "strand": "-1"}
+{"chromosome": "chrI", "start": "26903", "stop": "27053", "geneID": "WBGene00022278", "regulatoryClass": "coding_promoter", "tissue": "Ubiq.", "strand": "-1"}
+{"chromosome": "chrI", "start": "36019", "stop": "36169", "geneID": "WBGene00022279", "regulatoryClass": "coding_promoter", "tissue": "Intest.", "strand": "-1"}
+{"chromosome": "chrI", "start": "42127", "stop": "42277", "geneID": "WBGene00022279", "regulatoryClass": "coding_promoter", "tissue": "Soma", "strand": "-1"}
+{"chromosome": "chrI", "start": "43281", "stop": "43431", "geneID": "WBGene00022275", "regulatoryClass": "coding_promoter", "tissue": "Ubiq.", "strand": "1"}
+{"chromosome": "chrI", "start": "47054", "stop": "47204", "geneID": "WBGene00044345", "regulatoryClass": "coding_promoter", "tissue": "Unclassified", "strand": "1"}
+{"chromosome": "chrI", "start": "47054", "stop": "47204", "geneID": "WBGene00022279", "regulatoryClass": "coding_promoter", "tissue": "Unclassified", "strand": "-1"}
+{"chromosome": "chrI", "start": "70045", "stop": "70195", "geneID": "WBGene00000812", "regulatoryClass": "coding_promoter", "tissue": "Soma", "strand": "1"}
+{"chromosome": "chrI", "start": "72363", "stop": "72513", "geneID": "WBGene00000812", "regulatoryClass": "coding_promoter", "tissue": "Unclassified", "strand": "1"}

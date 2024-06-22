@@ -1,0 +1,10 @@
+{"locus": "I:92951", "gene": "WBGene00021676", "substitution": "G -> A", "mutationType": "Modifier/-", "orderingData": [1, "92951"]}
+{"locus": "I:174017", "gene": "WBGene00018958", "substitution": "C -> A", "mutationType": "Exon/Synonymous", "orderingData": [1, "174017"]}
+{"locus": "I:203669", "gene": "WBGene00000227", "substitution": "T -> A", "mutationType": "Intron/-", "orderingData": [1, "203669"]}
+{"locus": "I:203669", "gene": "WBGene00000227", "substitution": "T -> A", "mutationType": "Intron/-", "orderingData": [1, "203669"]}
+{"locus": "I:219084", "gene": "WBGene00021662", "substitution": "T -> A", "mutationType": "UTR/-", "orderingData": [1, "219084"]}
+{"locus": "I:219084", "gene": "WBGene00021662", "substitution": "T -> A", "mutationType": "UTR/-", "orderingData": [1, "219084"]}
+{"locus": "I:304550", "gene": "WBGene00016902", "substitution": "T -> C", "mutationType": "Intron/-", "orderingData": [1, "304550"]}
+{"locus": "I:315478", "gene": "WBGene00016906", "substitution": "T -> G", "mutationType": "Modifier/-", "orderingData": [1, "315478"]}
+{"locus": "I:371591", "gene": "WBGene00020088", "substitution": "G -> T", "mutationType": "Exon/L -> I", "orderingData": [1, "371591"]}
+{"locus": "I:376521", "gene": "WBGene00020089", "substitution": "T -> A", "mutationType": "Intron/-", "orderingData": [1, "376521"]}
