@@ -8,4 +8,4 @@ While the Python and R code can be found in full, the resources files are trunca
 # Running the code
 The R and Python code can be kept within the same directory, and both require the 'Resources' file to sit as a child directory within this. In the majority of cases, the code will take any input files from this Resources section, and output any files back to it.
 
-Please note that running the AG (CaeNDR) pipeline requires the use of bcftools and SnpEff, as well as the hard-filtered variants file from the CaeNDR database. This is best run on a dedicated cluster, owing to the compute time and power required to properly analyse these data.
+Please note that running the AG (CaeNDR) pipeline requires the use of bcftools and SnpEff (versions 1.10.2 and 4.2 were used respectively), as well as the hard-filtered variants file from the CaeNDR database. This is best run on a dedicated cluster, owing to the compute time and power required to properly analyse these data.
